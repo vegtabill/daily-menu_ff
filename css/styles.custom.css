@@ -1,0 +1,84 @@
+/* Clean file for your awesome overrides, enable in the info file to use. */
+
+form.commerce-add-to-cart select {
+  size: 0; 
+  width: 40px; 
+}
+
+.foodtype4 {
+  color: blue;
+  /*background-color: white; */
+  padding: 0em 0.4em 0.4em 0.2em; 
+  margin: 0em; 
+} 
+.foodtype3 {
+  color: red;
+  /*background-color: white; */
+  padding: 0em 0.4em 0.4em 0.2em; 
+  margin: 0em; 
+}
+.foodtype2 {
+  color: yellow;
+  background-color: red; 
+  padding: 0em 0.4em 0.4em 0.2em; 
+  margin: 0em; 
+} 
+.foodtype6 {
+  color: green;
+  /*background-color: white; */
+  padding: 0em 0.4em 0.4em 0.2em; 
+  margin: 0em; 
+}
+.foodtype5 {
+  color: red;
+  background-color: yellow; 
+  padding: 0em 0.4em 0.4em 0.2em; 
+  margin: 0em; 
+}
+
+.field-type-list-integer {
+  float: right;
+} 
+
+form.commerce-add-to-cart div {
+  display: inline;
+} 
+
+form.commerce-add-to-cart label {
+  display: inline;
+  margin: 0em 0em 0em 2em;
+  color: black; 
+} 
+
+form.commerce-add-to-cart input#edit-submit.form-submit {
+  float: right;
+  margin: 1.5em 0 0 0; 
+} 
+
+div.bundle-widgets fieldset {
+  border: 0 none;
+  padding: 0; 
+  margin: 0.1em 0em 0em 0em; 
+}
+
+input[type="submit"] {
+  color: #f9f9f9;
+}
+
+#block-system-main-menu ul.menu li {
+  padding: 0 1.0em; 
+}
+
+#block-menu-menu-footer-menu ul.menu {
+  display: table;
+  margin: auto;   
+}
+
+#block-menu-menu-footer-menu ul.menu li {
+  float: left; 
+  padding: 0.5em 2.0em 1.5em 2.0em; 
+}
+
+fieldset#edit-contact {
+  display: none;
+}
